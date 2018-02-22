@@ -2,6 +2,8 @@
 
 En ese sitio presenta a Geekcore S.A.S. como una empresa de tecnología colombiana con una visión de innovación y aplicación de la ingeniería en cada uno de sus proyectos. Podrá encontrar más información en nuestro [sitio web](http://www.geekcore.co).
 
+![Jekyll](http://geekcore.co/img/logos/Mesa%20de%20trabajo%2013.png)
+
 ## Servicios
 
 Nos especializamos en desarrollo de software, brindando siempre la mejor calidad y servicio en cada uno de nuestros productos.
