@@ -29,5 +29,5 @@ Geekcore S.A.S. es constituida legalmente en Octubre de 2016.
 
 Si tiene alguna duda o comentario:
 
-* Llámenos al (+57) 319 442 48 46 o (+57) 321 429 99 69
+* Llámenos al (+57) 319 442 48 46
 * Estamos ubicados en Calle 56 # 36A - 09. Bogotá, Colombia.
